@@ -1,0 +1,4 @@
+bootstrap:
+  example:
+    config: yaml
+    log: logrus
