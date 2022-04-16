@@ -2,6 +2,10 @@ bootstrap:
   example:
     config: yaml
     log: logrus
+    string: foo
+    int: 123
+    float: 3.14
+    bool: true
   redis:
     cluster:
       addrs:
